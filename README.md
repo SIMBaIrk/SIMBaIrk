@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SIMBaIrk
 - 👀 I’m interested in Books, jsNode, CryptoInvesting.
 - 🌱 I’m currently learning Meteor, React, Bootstrap
-- 💞️ I’m looking to collaborate on my project CryptoDiary
+- 💞️ I’m looking to collaborate on my project CryptoTrader's Diary
 - 📫 How to reach me
 
 BTC 1Jjz5EPbevh5gpgmmpGYo6YFeYpDJFx6hf
